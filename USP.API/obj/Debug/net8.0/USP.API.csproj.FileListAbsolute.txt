@@ -105,3 +105,4 @@ S:\USP_Projects\USP\USP.API\obj\Debug\net8.0\refint\USP.API.dll
 S:\USP_Projects\USP\USP.API\obj\Debug\net8.0\USP.API.pdb
 S:\USP_Projects\USP\USP.API\obj\Debug\net8.0\USP.API.genruntimeconfig.cache
 S:\USP_Projects\USP\USP.API\obj\Debug\net8.0\ref\USP.API.dll
+S:\USP_Projects\USP\USP.API\obj\Debug\net8.0\USP.API.sourcelink.json

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "OOFx7ziwPho=",
+  "dgSpecHash": "bRC9IUxHCvM=",
   "success": true,
   "projectFilePath": "S:\\USP_Projects\\USP\\USP.Infrastructure\\USP.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Marko\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

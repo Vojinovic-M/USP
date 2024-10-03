@@ -22,3 +22,4 @@ S:\USP_Projects\USP\USP.Application\obj\Debug\net8.0\USP.Application.dll
 S:\USP_Projects\USP\USP.Application\obj\Debug\net8.0\refint\USP.Application.dll
 S:\USP_Projects\USP\USP.Application\obj\Debug\net8.0\USP.Application.pdb
 S:\USP_Projects\USP\USP.Application\obj\Debug\net8.0\ref\USP.Application.dll
+S:\USP_Projects\USP\USP.Application\obj\Debug\net8.0\USP.Application.sourcelink.json
