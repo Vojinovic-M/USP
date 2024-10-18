@@ -50,3 +50,4 @@ S:\usp-2024-main\usp-2024-main\USP.Infrastructure\obj\Debug\net8.0\USP.Infrastru
 S:\usp-2024-main\usp-2024-main\USP.Infrastructure\obj\Debug\net8.0\refint\USP.Infrastructure.dll
 S:\usp-2024-main\usp-2024-main\USP.Infrastructure\obj\Debug\net8.0\USP.Infrastructure.pdb
 S:\usp-2024-main\usp-2024-main\USP.Infrastructure\obj\Debug\net8.0\ref\USP.Infrastructure.dll
+S:\usp-2024-main\usp-2024-main\USP.Infrastructure\obj\Debug\net8.0\USP.Infrastructure.sourcelink.json

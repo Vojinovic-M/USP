@@ -33,3 +33,4 @@ S:\usp-2024-main\usp-2024-main\USP.Worker\obj\Debug\net8.0\USP.Worker.dll
 S:\usp-2024-main\usp-2024-main\USP.Worker\obj\Debug\net8.0\refint\USP.Worker.dll
 S:\usp-2024-main\usp-2024-main\USP.Worker\obj\Debug\net8.0\USP.Worker.pdb
 S:\usp-2024-main\usp-2024-main\USP.Worker\obj\Debug\net8.0\ref\USP.Worker.dll
+S:\usp-2024-main\usp-2024-main\USP.Worker\obj\Debug\net8.0\USP.Worker.sourcelink.json
