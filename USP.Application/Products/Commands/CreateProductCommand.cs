@@ -20,9 +20,9 @@ public class CreateProductCommandHandler : IRequestHandler<CreateProductCommand,
 
         var userEntity2 = new Domain.Entities.User
         {
-            Email = "pbisevac2@singidunuma.ac.rs",
-            FirstName = "Petar2",
-            LastName = "Bisevac2",
+            Email = "marko.vojinovic.21@singidunum.rs",
+            FirstName = "Marko",
+            LastName = "Vojinovic",
         };
 
         await userEntity.SaveAsync(cancellation: cancellationToken);

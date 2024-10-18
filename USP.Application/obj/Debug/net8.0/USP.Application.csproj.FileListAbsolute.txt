@@ -44,3 +44,4 @@ S:\usp-2024-main\usp-2024-main\USP.Application\obj\Debug\net8.0\USP.Application.
 S:\usp-2024-main\usp-2024-main\USP.Application\obj\Debug\net8.0\refint\USP.Application.dll
 S:\usp-2024-main\usp-2024-main\USP.Application\obj\Debug\net8.0\USP.Application.pdb
 S:\usp-2024-main\usp-2024-main\USP.Application\obj\Debug\net8.0\ref\USP.Application.dll
+S:\usp-2024-main\usp-2024-main\USP.Application\obj\Debug\net8.0\USP.Application.sourcelink.json

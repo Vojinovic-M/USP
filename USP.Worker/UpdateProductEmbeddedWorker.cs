@@ -12,15 +12,7 @@ public class UpdateProductEmbeddedWorker(IProductService productService) : Backg
     {
         while (!stoppingToken.IsCancellationRequested)
         {
-            // var now = DateTime.Now;
-        
-            // if (now.DayOfWeek is DayOfWeek.Monday or DayOfWeek.Wednesday or DayOfWeek.Friday && now is { Hour: 11, Minute: 0, Second: 0 })
-            // {
-            //     DoWork();
-            // }
-            
             await DoWorkAsync();
-        
             await Task.Delay(TimeSpan.FromSeconds(2), stoppingToken);
         }
     }
@@ -34,7 +26,6 @@ public class UpdateProductEmbeddedWorker(IProductService productService) : Backg
         foreach (var entity in results)
         {
             var entityProductEmbedded = await entity.ToEmbedded();
-
             await entityProductEmbedded.SaveAsync();
         }
     }

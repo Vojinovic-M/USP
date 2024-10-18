@@ -35,3 +35,4 @@ S:\usp-2024-main\usp-2024-main\USP.Domain\obj\Debug\net8.0\USP.Domain.dll
 S:\usp-2024-main\usp-2024-main\USP.Domain\obj\Debug\net8.0\refint\USP.Domain.dll
 S:\usp-2024-main\usp-2024-main\USP.Domain\obj\Debug\net8.0\USP.Domain.pdb
 S:\usp-2024-main\usp-2024-main\USP.Domain\obj\Debug\net8.0\ref\USP.Domain.dll
+S:\usp-2024-main\usp-2024-main\USP.Domain\obj\Debug\net8.0\USP.Domain.sourcelink.json

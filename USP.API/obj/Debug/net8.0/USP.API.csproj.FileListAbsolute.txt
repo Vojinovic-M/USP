@@ -183,3 +183,4 @@ S:\usp-2024-main\usp-2024-main\USP.API\obj\Debug\net8.0\refint\USP.API.dll
 S:\usp-2024-main\usp-2024-main\USP.API\obj\Debug\net8.0\USP.API.pdb
 S:\usp-2024-main\usp-2024-main\USP.API\obj\Debug\net8.0\USP.API.genruntimeconfig.cache
 S:\usp-2024-main\usp-2024-main\USP.API\obj\Debug\net8.0\ref\USP.API.dll
+S:\usp-2024-main\usp-2024-main\USP.API\obj\Debug\net8.0\USP.API.sourcelink.json
